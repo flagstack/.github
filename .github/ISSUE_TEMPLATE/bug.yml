@@ -1,0 +1,70 @@
+name: Bug report
+description: Report a reproducible problem in FlagStack.
+title: ""
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug. Please provide enough detail for someone else to reproduce the problem.
+
+        **Do not report security vulnerabilities here.** Follow the security policy for private reporting.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem clearly.
+      placeholder: Tell us what you observed.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Provide the smallest reliable set of steps you can.
+      placeholder: |
+        1. Configure ...
+        2. Run ...
+        3. Observe ...
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: FlagStack version or commit
+      placeholder: e.g. v0.1.0 or commit SHA
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, runtime, browser, deployment method, SDK version, or other relevant details.
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs or output
+      description: Remove secrets, tokens, credentials, customer data, and other sensitive information before posting.
+      render: shell
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Before submitting
+      options:
+        - label: I searched existing issues for the same problem.
+          required: true
+        - label: I have removed secrets and sensitive data from this report.
+          required: true
+        - label: This is not a security vulnerability.
+          required: true
