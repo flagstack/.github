@@ -1,6 +1,6 @@
 # FlagStack
 
-**Open-source feature management built for developers.**
+**Source-available feature management built for developers.**
 
 FlagStack is building a self-hostable feature flag platform with a focus on excellent SDKs, local evaluation, resilient configuration delivery, OpenFeature compatibility and predictable operating costs.
 
@@ -10,7 +10,7 @@ FlagStack is building a self-hostable feature flag platform with a focus on exce
 
 | Repository | Purpose |
 | --- | --- |
-| [`flagstack`](https://github.com/flagstack/flagstack) | Main open-source FlagStack application |
+| [`flagstack`](https://github.com/flagstack/flagstack) | Main source-available FlagStack application |
 | [`sdk-python`](https://github.com/flagstack/sdk-python) | Official Python SDK |
 | [`sdk-js`](https://github.com/flagstack/sdk-js) | Official JavaScript / TypeScript SDKs |
 | [`sdk-go`](https://github.com/flagstack/sdk-go) | Official Go SDK |
@@ -29,10 +29,14 @@ FlagStack aims to provide:
 - OpenFeature compatibility;
 - an optional managed FlagStack Cloud service.
 
-## Open source first
+## Self-hosting and licensing
 
 The self-hosted version of FlagStack is intended to be a genuinely useful product in its own right.
 
-FlagStack Cloud will focus on the value of managed hosting, operations and convenience rather than deliberately restricting the open-source edition.
+The FlagStack core is source-available under the Elastic License 2.0. It may be self-hosted and modified subject to that licence, while the licence restricts offering FlagStack itself as a competing hosted or managed service.
+
+Official FlagStack SDKs are licensed under the Apache License 2.0 so applications can integrate them without inheriting the core server's source-available licence.
+
+FlagStack Cloud will focus on the value of managed hosting, operations, convenience, and support rather than deliberately crippling the self-hosted product.
 
 Development is just getting started.
