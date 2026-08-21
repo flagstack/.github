@@ -4,7 +4,7 @@ Security issues should be reported privately so they can be investigated and fix
 
 ## Supported versions
 
-FlagStack is currently in early development and has not yet published a production-ready release. Until stable releases begin, only the latest code on the default branch is actively developed.
+Switch On Your Code is currently in early development and has not yet published a production-ready release. Until stable releases begin, only the latest code on the default branch is actively developed.
 
 A supported-version table will be added once versioned releases are available.
 
@@ -14,7 +14,7 @@ Please **do not open a public GitHub issue** for a suspected vulnerability.
 
 Where GitHub private vulnerability reporting is available for the affected repository, use the repository's **Security** tab and select **Report a vulnerability**.
 
-If private vulnerability reporting is not available, contact a FlagStack maintainer privately through GitHub before disclosing details publicly.
+If private vulnerability reporting is not available, contact a Switch On Your Code maintainer privately through GitHub before disclosing details publicly.
 
 When reporting an issue, please include as much of the following as practical:
 
@@ -29,8 +29,8 @@ Do not include real customer credentials, production secrets, or unnecessary per
 
 ## Disclosure
 
-Please allow the maintainers a reasonable opportunity to investigate and prepare a fix before public disclosure. FlagStack will aim to communicate clearly with reporters as the security process matures.
+Please allow the maintainers a reasonable opportunity to investigate and prepare a fix before public disclosure. Switch On Your Code will aim to communicate clearly with reporters as the security process matures.
 
 ## Scope
 
-This policy applies to the public FlagStack repositories and to vulnerabilities in FlagStack software. Security issues relating specifically to the hosted FlagStack Cloud service should also be reported privately.
+This policy applies to the public Switch On Your Code repositories and to vulnerabilities in Switch On Your Code software. Security issues relating specifically to the hosted Switch On Your Code Cloud service should also be reported privately.

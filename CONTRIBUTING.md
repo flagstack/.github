@@ -1,8 +1,8 @@
-# Contributing to FlagStack
+# Contributing to Switch On Your Code
 
-Thanks for taking the time to contribute to FlagStack.
+Thanks for taking the time to contribute to Switch On Your Code.
 
-FlagStack is still in early development, so some project structure and APIs will change as the platform settles. Small, focused contributions are especially valuable at this stage.
+Switch On Your Code is still in early development, so some project structure and APIs will change as the platform settles. Small, focused contributions are especially valuable at this stage.
 
 ## Before you start
 
@@ -13,7 +13,7 @@ FlagStack is still in early development, so some project structure and APIs will
 
 ## Branches and history
 
-FlagStack keeps a linear Git history.
+Switch On Your Code keeps a linear Git history.
 
 Create a branch from the latest `main` branch and keep it current by rebasing:
 
@@ -24,7 +24,7 @@ git rebase origin/main
 
 Do not merge `main` into your feature branch.
 
-Pull requests are integrated using **rebase only**. FlagStack does not use merge commits or squash merges.
+Pull requests are integrated using **rebase only**. Switch On Your Code does not use merge commits or squash merges.
 
 Keep commits small and coherent. A commit should represent one understandable change and should leave the repository in a sensible state.
 
@@ -95,19 +95,19 @@ New behaviour should normally include tests. Bug fixes should include a regressi
 
 ## Contributor Licence Agreement
 
-External contributions are accepted subject to the FlagStack Contributor Licence Agreement (CLA).
+External contributions are accepted subject to the Switch On Your Code Contributor Licence Agreement (CLA).
 
-Contributors retain copyright in their contributions. The CLA grants the FlagStack rights needed to use, modify, distribute, sublicense, and relicense accepted contributions as part of the project.
+Contributors retain copyright in their contributions. The CLA grants Switch On Your Code the rights needed to use, modify, distribute, sublicense, and relicense accepted contributions as part of the project.
 
 The signing workflow will be documented before external contributions are merged.
 
 ## Licensing
 
-The main FlagStack server is source-available under the Elastic License 2.0. Official client SDKs are licensed under the Apache License 2.0. Contributions are made under the licence applicable to the repository in which they are submitted, together with the CLA described above.
+The main Switch On Your Code server is source-available under the Elastic License 2.0. Official client SDKs are licensed under the Apache License 2.0. Contributions are made under the licence applicable to the repository in which they are submitted, together with the CLA described above.
 
 ## Code of Conduct
 
-Participation in FlagStack community spaces is governed by the FlagStack Code of Conduct.
+Participation in Switch On Your Code community spaces is governed by the Switch On Your Code Code of Conduct.
 
 ## Security issues
 

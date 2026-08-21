@@ -16,7 +16,7 @@
 - [ ] I have added or updated tests where behaviour changed.
 - [ ] I have updated documentation where public behaviour or APIs changed.
 - [ ] Formatting, linting, tests, and relevant builds pass locally.
-- [ ] My commits follow the FlagStack commit-message convention.
+- [ ] My commits follow the Switch On Your Code commit-message convention.
 - [ ] My branch is rebased onto the latest `main`.
 - [ ] I have not merged `main` into my branch.
 - [ ] I understand this pull request will be integrated by rebase only, not by merge commit or squash merge.

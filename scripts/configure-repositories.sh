@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-ORG="flagstack"
+ORG="switchonyourcode"
 
 if ! command -v gh >/dev/null 2>&1; then
     echo "GitHub CLI (gh) is required." >&2
@@ -20,7 +20,7 @@ configure_repository() {
 
     echo "Configuring ${full_repo}..."
 
-    # FlagStack keeps a linear history and integrates pull requests by rebase only.
+    # Switch On Your Code keeps a linear history and integrates pull requests by rebase only.
     gh api \
         --method PATCH \
         "repos/${full_repo}" \
@@ -70,4 +70,4 @@ done < <(
         --jq '.[] | select(.isArchived == false) | .name'
 )
 
-echo "FlagStack repository settings configured."
+echo "Switch On Your Code repository settings configured."
