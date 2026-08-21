@@ -1,6 +1,6 @@
-# FlagStack GitHub Configuration
+# Switch On Your Code GitHub Configuration
 
-This repository contains shared GitHub configuration and community files for the [FlagStack organisation](https://github.com/flagstack).
+This repository contains shared GitHub configuration and community files for the [Switch On Your Code organisation](https://github.com/switchonyourcode).
 
 ## Organisation-wide files
 

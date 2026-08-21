@@ -1,12 +1,12 @@
 name: Feature request
-description: Suggest an improvement or new capability for FlagStack.
+description: Suggest an improvement or new capability for Switch On Your Code.
 title: ""
 labels: []
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for helping improve FlagStack. For substantial architectural or public API changes, please focus on the problem first so alternatives can be discussed before implementation begins.
+        Thanks for helping improve Switch On Your Code. For substantial architectural or public API changes, please focus on the problem first so alternatives can be discussed before implementation begins.
 
   - type: textarea
     id: problem

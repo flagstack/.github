@@ -1,6 +1,6 @@
-# FlagStack Support
+# Switch On Your Code Support
 
-FlagStack is currently in early development. There is not yet a production support SLA or a stable release channel.
+Switch On Your Code is currently in early development. There is not yet a production support SLA or a stable release channel.
 
 ## Bugs
 
@@ -22,6 +22,6 @@ General support channels will be added as the project grows. Until then, use rep
 
 Do not use public issues for security vulnerabilities. Follow `SECURITY.md` for private reporting instructions.
 
-## FlagStack Cloud
+## Switch On Your Code Cloud
 
-FlagStack Cloud is not yet generally available. Dedicated Cloud support channels and service expectations will be published before launch.
+Switch On Your Code Cloud is not yet generally available. Dedicated Cloud support channels and service expectations will be published before launch.

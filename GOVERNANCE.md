@@ -1,6 +1,6 @@
-# FlagStack Governance
+# Switch On Your Code Governance
 
-FlagStack is currently a maintainer-led project in its early stages.
+Switch On Your Code is currently a maintainer-led project in its early stages.
 
 ## Maintainers
 
@@ -22,11 +22,11 @@ Substantial changes should be discussed before implementation, particularly when
 - public APIs or SDK contracts;
 - persistence or migration strategy;
 - authentication, authorisation, or security boundaries;
-- compatibility between self-hosted FlagStack and FlagStack Cloud;
+- compatibility between self-hosted Switch On Your Code and Switch On Your Code Cloud;
 - cross-repository architecture;
 - licensing or contribution policy.
 
-Maintainers make the final decision when consensus cannot be reached. Decisions should favour the long-term maintainability, usability, security, and sustainability of FlagStack.
+Maintainers make the final decision when consensus cannot be reached. Decisions should favour the long-term maintainability, usability, security, and sustainability of Switch On Your Code.
 
 ## Becoming a maintainer
 
